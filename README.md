@@ -11,7 +11,7 @@
 ## My GitHub Stats 📈
 
 <a href="https://github.com/ffflabs/ffflabs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffflabs&hide=css,html&layout=compact&theme=vue&cache=1800" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffflabs&hide=css,html&layout=compact&theme=vue&cache_seconds=1800" />
 </a>
 <a href="https://github.com/ffflabs/ffflabs">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ffflabs&hide=stars&show_icons=true&line_height=27&count_private=true&theme=vue" alt="FFFLabs's GitHub Stats" />
