@@ -8,9 +8,9 @@
 
 ---
 
-## My GitHub Stats 📈
+## A few Stats (GitHub and others) 📈
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ffflabs&theme=vue&cache_seconds=1800&langs_count=10&layout=compact&hide=CSS,HTML&card_width=260)![Stats](https://github-readme-stats-chi-six.vercel.app/api?username=ffflabs&hide=stars&show_icons=true&line_height=29&count_private=true&theme=vue&hide_rank=true)![WakaTime](https://github-readme-stats-chi-six.vercel.app/api/wakatime?username=ffflabs&hide_progress=true&langs_count=5&theme=vue)
+![Top Languages](https://github-readme-stats-g78ml47k1.vercel.app/api/top-langs/?username=ffflabs&theme=vue&cache_seconds=1800&langs_count=10&layout=compact&hide=CSS,HTML&card_width=250&hide_title=true)![Stats](https://github-readme-stats-g78ml47k1.vercel.app/api?username=ffflabs&hide=stars&show_icons=true&line_height=29&theme=vue&hide_rank=true&label_width=150&hide_title=true&card_width=270)![WakaTime](https://github-readme-stats-g78ml47k1.vercel.app/api/wakatime?card_width=260&langs_count=5&hide_title=true&hide_progress=true&theme=vue&username=ffflabs&label_width=110) |
 
 <small>Widgets provided by  <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a></small>
 
