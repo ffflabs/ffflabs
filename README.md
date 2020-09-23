@@ -10,9 +10,10 @@
 
 ## My GitHub Stats 📈
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ffflabs&theme=vue&cache_seconds=1800&langs_count=10&layout=compact&hide=CSS,HTML)](https://github-readme-stats.vercel.app/api/top-langs/?username=ffflabs&theme=vue&cache_seconds=1800&layout=compact&langs_count=10) [![Stats](https://github-readme-stats.vercel.app/api?username=ffflabs&hide=stars&show_icons=true&line_height=27&count_private=true&theme=vue)](https://github-readme-stats.vercel.app/api?username=ffflabs&hide=stars&show_icons=true&line_height=27&count_private=true&theme=vue)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ffflabs&theme=vue&cache_seconds=1800&langs_count=10&layout=compact&hide=CSS,HTML&card_width=260)![Stats](https://github-readme-stats-chi-six.vercel.app/api?username=ffflabs&hide=stars&show_icons=true&line_height=29&count_private=true&theme=vue&hide_rank=true)![WakaTime](https://github-readme-stats-chi-six.vercel.app/api/wakatime?username=ffflabs&hide_progress=true&langs_count=5&theme=vue)
 
 <small>Widgets provided by  <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a></small>
+
 
 
 <!--
