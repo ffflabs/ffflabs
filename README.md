@@ -10,14 +10,19 @@
 
 ## My GitHub Stats 📈
 
-<a href="https://github.com/ffflabs/ffflabs">
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ffflabs&theme=vue&cache_seconds=1800&langs_count=10&layout=compact&hide=CSS,HTML)](https://github-readme-stats.vercel.app/api/top-langs/?username=ffflabs&theme=vue&cache_seconds=1800&layout=compact&langs_count=10) [![Stats](https://github-readme-stats.vercel.app/api?username=ffflabs&hide=stars&show_icons=true&line_height=27&count_private=true&theme=vue)](https://github-readme-stats.vercel.app/api?username=ffflabs&hide=stars&show_icons=true&line_height=27&count_private=true&theme=vue)
+
+<small>Widgets provided by  <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a></small>
+
+
+<!--
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ffflabs&theme=vue&cache_seconds=1800">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffflabs&theme=vue&cache_seconds=1800" />
 </a>
 <a href="https://github.com/ffflabs/ffflabs">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ffflabs&hide=stars&show_icons=true&line_height=27&count_private=true&theme=vue" alt="FFFLabs's GitHub Stats" />
 </a>
 
-<small>Widgets provided by  <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a></small>
 
 <!--
 Here are some ideas to get you started:
