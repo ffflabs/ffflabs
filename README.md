@@ -4,7 +4,9 @@
 
 ## My profile in other platforms: 👇
 
-[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/1030087?style=for-the-badge&color=%23f48024)](https://stackoverflow.com/users/1030087/ffflabs)  [![Stack Exchange reputation](https://img.shields.io/stackexchange/es.stackoverflow/r/18376?color=%23edb407&style=for-the-badge)](https://es.stackoverflow.com/users/18376/ffflabs)  [![Twitter Follow](https://img.shields.io/twitter/follow/ffflabs?color=%231da1f2&logo=twitter&logoColor=%231da1f2&style=for-the-badge)](https://twitter.com/ffflabs)  [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/amenadiel?logo=reddit&style=for-the-badge&labelColor=eeeeee)](https://www.reddit.com/u/amenadiel) [![Linkedin Profile](https://img.shields.io/badge/Linkedin-felipefigueroa-black?labelColor=0077b5&style=for-the-badge&logo=linkedin&color=eeeeee)](https://www.linkedin.com/in/felipefigueroa/)
+[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/1030087?logo=stackoverflow&style=for-the-badge&color=%23f48024)](https://stackoverflow.com/users/1030087/ffflabs)    [![Twitter Follow](https://img.shields.io/twitter/follow/ffflabs?color=%231da1f2&logo=twitter&logoColor=%231da1f2&style=for-the-badge)](https://twitter.com/ffflabs)  [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/amenadiel?logo=reddit&style=for-the-badge&labelColor=eeeeee)](https://www.reddit.com/u/amenadiel) 
+---
+[![ES.StackOverflow reputation](https://img.shields.io/stackexchange/es.stackoverflow/r/18376?logo=es.stackoverflow&color=%23edb407&style=for-the-badge)](https://es.stackoverflow.com/users/18376/ffflabs) [![Linkedin Profile](https://img.shields.io/badge/Linkedin-felipefigueroa-black?labelColor=0077b5&style=for-the-badge&logo=linkedin&color=eeeeee)](https://www.linkedin.com/in/felipefigueroa/)
 
 <small>Shields provided by  <a href="https://shields.io/">Shields.io</a></small>
 
