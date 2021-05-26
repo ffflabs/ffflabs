@@ -1,4 +1,4 @@
-# Hi there <img src="wave.gif" width="30px">. I'm FFFlabs, formerly known as Amenadiel.
+# I was told there would be some serious partying.
 
 ---
 
